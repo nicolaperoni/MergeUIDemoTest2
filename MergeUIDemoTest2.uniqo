@@ -23,13 +23,5 @@ Project:
    Uri: 'urn:QPlatform:NativeUI'
    Module: QPlatform.NativeUI
    Version: 26.1.0.0
-  6:
-   Uri: 'urn:QPlatform:Store'
-   Module: QPlatform.Store
-   Version: 2.1.0.0
-  7:
-   Uri: 'urn:QPlatform:SQLiteStore'
-   Module: QPlatform.SQLiteStore
-   Version: 2.1.0.0
  Nodes:
  - File: Nodes/MergeUIDemoTest2.yaml
