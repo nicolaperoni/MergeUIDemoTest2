@@ -1,0 +1,52 @@
+Name: Motors
+Id: g=7eba8c4f0970c035b59263a9686c3ecb
+Type: FolderType
+Children:
+- Name: Motor1
+  Id: g=f75ad17037fd679b0472afe5a0af89f7
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 1
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 10
+- Name: Motor2
+  Id: g=ed74d01bed363ac541c23d5dde3164e5
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 2
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 20
+- Name: Motor3
+  Id: g=85dd860e3832937d09343a6a609817bc
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 3
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 30
+- Name: Motor4
+  Id: g=2b584df1facdcec5881f4b1e5a878438
+  Type: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 4
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 44

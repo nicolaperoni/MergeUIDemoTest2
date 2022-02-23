@@ -1,0 +1,17 @@
+Project:
+ Name: MergeUIDemoTest2_Design
+ ProjectNamespaceIndex: 4
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ CoreVersion: 8.0.0.0
+ Dependencies:
+  2:
+   Uri: MergeUIDemoTest2
+   RelativePath: MergeUIDemoTest2.uniqo
+  3:
+   Uri: 'urn:QPlatform:CoreBase'
+   Module: QPlatform.CoreBase
+   Version: 8.0.0.0
+ Nodes: []

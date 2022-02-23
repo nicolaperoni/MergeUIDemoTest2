@@ -1,0 +1,35 @@
+Project:
+ Name: MergeUIDemoTest2
+ ProjectNamespaceIndex: 8
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ CoreVersion: 8.0.0.0
+ Dependencies:
+  2:
+   Uri: 'urn:QPlatform:CoreBase'
+   Module: QPlatform.CoreBase
+   Version: 8.0.0.0
+  3:
+   Uri: 'urn:QPlatform:UI'
+   Module: QPlatform.UI
+   Version: 43.0.0.0
+  4:
+   Uri: 'urn:QPlatform:HMIProject'
+   Module: QPlatform.HMIProject
+   Version: 10.1.0.0
+  5:
+   Uri: 'urn:QPlatform:NativeUI'
+   Module: QPlatform.NativeUI
+   Version: 26.1.0.0
+  6:
+   Uri: 'urn:QPlatform:Store'
+   Module: QPlatform.Store
+   Version: 2.1.0.0
+  7:
+   Uri: 'urn:QPlatform:SQLiteStore'
+   Module: QPlatform.SQLiteStore
+   Version: 2.1.0.0
+ Nodes:
+ - File: Nodes/MergeUIDemoTest2.yaml
