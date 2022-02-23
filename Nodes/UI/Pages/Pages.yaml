@@ -591,7 +591,7 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Settings"}
+      Value: {"LocaleId":"en-US","Text":"Settings!"}
     - Name: TextColor
       Type: BaseDataVariableType
       DataType: Color
